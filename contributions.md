@@ -22,6 +22,7 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+| Feb 25   | [Link](https://www.openstreetmap.org/changeset/147902000)    |  Open Street Map   |  I fixed incorrect information about my home in MA.  |
+| Feb 25   | [Link](https://github.com/joannakl/ossd/issues/94)    |    Course Website |   Raised an issue to improve CAS calander    |
+| Feb 25   | [Link](https://www.openstreetmap.org/changeset/147902972#map=19/40.69324/-73.98215)   | Open Street Map  | Added info about Brooklyn apartment   |
+| Feb 25   | [Link](https://www.openstreetmap.org/changeset/147902972#map=19/40.69324/-73.98215)   | Open Street Map  | Added info about Brooklyn apartment   |
