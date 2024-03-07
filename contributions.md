@@ -25,4 +25,8 @@ Replace the first row with your own contribution.
 | Feb 25   | [Link](https://www.openstreetmap.org/changeset/147902000)    |  Open Street Map   |  I fixed incorrect information about my home in MA.  |
 | Feb 25   | [Link](https://github.com/joannakl/ossd/issues/94)    |    Course Website |   Raised an issue to improve CAS calander    |
 | Feb 25   | [Link](https://www.openstreetmap.org/changeset/147902972#map=19/40.69324/-73.98215)   | Open Street Map  | Added info about Brooklyn apartment   |
-| March 2  | [Link](https://github.com/joannakl/ossd/pull/103)   | Course Website  | pull request to fix incorrect link for project eval |
+| March 2  | [Link](https://github.com/joannakl/ossd/pull/103)   | Course Website  | Pull request to fix incorrect link for project eval |
+| March 7  | [Link](https://en.wikipedia.org/w/index.php?title=Chaophraya_Phitsanulok&oldid=prev&diff=1212416761)   | Wikipedia  | Improved formatting, spelling, and readability |
+
+
+
