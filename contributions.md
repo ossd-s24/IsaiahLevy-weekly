@@ -30,5 +30,5 @@ Replace the first row with your own contribution.
 | March 8  | [Issue](https://github.com/joannakl/ossd/issues/105)| Course Website  | Opened issue for out-dated link|
 | March 9  | [Adrián Fernández](https://en.wikipedia.org/w/index.php?title=Adri%C3%A1n_Fern%C3%A1ndez&diff=prev&oldid=1212829765)| Wikipedia  |  improved readability, standardized formatting, and clearer presentation of historical facts |
 | March 31  | [Open Street Map](https://www.openstreetmap.org/changeset/149401877#map=19/40.69345/-73.98140)| Wikipedia  |  UpdatedPhone Number & Acceptable Payment for Local Deli|
-
+| April 5 | [Issue](https://github.com/joannakl/ossd/issues/109)| Course Website  |  Suggested enhanceing academic dishonesty in the context of Open Source |
 
