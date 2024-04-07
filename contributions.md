@@ -29,6 +29,9 @@ Replace the first row with your own contribution.
 | March 7  | [Chaophraya Phitsanulok](https://en.wikipedia.org/w/index.php?title=Chaophraya_Phitsanulok&oldid=prev&diff=1212416761)   | Wikipedia  | Improved formatting, spelling, and readability |
 | March 8  | [Issue](https://github.com/joannakl/ossd/issues/105)| Course Website  | Opened issue for out-dated link|
 | March 9  | [Adrián Fernández](https://en.wikipedia.org/w/index.php?title=Adri%C3%A1n_Fern%C3%A1ndez&diff=prev&oldid=1212829765)| Wikipedia  |  improved readability, standardized formatting, and clearer presentation of historical facts |
+| March 29  | [Pull Request](https://github.com/openfoodfacts/openfoodfacts-server/pull/10063)| Open Food Facts  | Implemented a custom SCSS file for Tagify |
 | March 31  | [Open Street Map](https://www.openstreetmap.org/changeset/149401877#map=19/40.69345/-73.98140)| Wikipedia  |  UpdatedPhone Number & Acceptable Payment for Local Deli|
 | April 5 | [Issue](https://github.com/joannakl/ossd/issues/109)| Course Website  |  Suggested enhanceing academic dishonesty in the context of Open Source |
+| April 7 | [Open Street Map](https://www.openstreetmap.org/edit#map=19/42.31261/-71.10463)| Open Street Map | Added building name, number of levels to my childhood apartment |
+| April 7 | [Issue](https://github.com/joannakl/ossd/issues/112)| Course Website  |  Proposed Useful Link for Open Source Projects with many "Good first issues"|
 
