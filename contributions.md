@@ -34,4 +34,5 @@ Replace the first row with your own contribution.
 | April 5 | [Issue](https://github.com/joannakl/ossd/issues/109)| Course Website  |  Suggested enhanceing academic dishonesty in the context of Open Source |
 | April 7 | [Open Street Map](https://www.openstreetmap.org/edit#map=19/42.31261/-71.10463)| Open Street Map | Added building name, number of levels to my childhood apartment |
 | April 7 | [Issue](https://github.com/joannakl/ossd/issues/112)| Course Website  |  Proposed Useful Link for Open Source Projects with many "Good first issues"|
+| April 11 | [SirixDB](https://github.com/sirixdb/sirix/issues/713)| SirixDB  |  Raised an issue, reporting broken link in readme|
 
