@@ -35,4 +35,7 @@ Replace the first row with your own contribution.
 | April 7 | [Open Street Map](https://www.openstreetmap.org/edit#map=19/42.31261/-71.10463)| Open Street Map | Added building name, number of levels to my childhood apartment |
 | April 7 | [Issue](https://github.com/joannakl/ossd/issues/112)| Course Website  |  Proposed Useful Link for Open Source Projects with many "Good first issues"|
 | April 11 | [SirixDB](https://github.com/sirixdb/sirix/issues/713)| SirixDB  |  Raised an issue, reporting broken link in readme|
+| April 14 | [Pull Request](https://github.com/openfoodfacts/openfoodfacts-server/pull/10129)| Open Food Facts  | introduced a new check_quality service within the APIProductServices module to provide real-time quality warnings and errors|
+| April 14 | [Mohammed bin Salman](https://en.wikipedia.org/w/index.php?title=Mohammed_bin_Salman&diff=prev&oldid=1218930397)| Wikipedia  | Normalized field labels, updated image captions for clarity, and reorganized the layout |
+
 
