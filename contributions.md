@@ -37,5 +37,8 @@ Replace the first row with your own contribution.
 | April 11 | [SirixDB](https://github.com/sirixdb/sirix/issues/713)| SirixDB  |  Raised an issue, reporting broken link in readme|
 | April 14 | [Pull Request](https://github.com/openfoodfacts/openfoodfacts-server/pull/10129)| Open Food Facts  | introduced a new check_quality service within the APIProductServices module to provide real-time quality warnings and errors|
 | April 14 | [Mohammed bin Salman](https://en.wikipedia.org/w/index.php?title=Mohammed_bin_Salman&diff=prev&oldid=1218930397)| Wikipedia  | Normalized field labels, updated image captions for clarity, and reorganized the layout |
+| April 21 | [LES Wine & Spirits](https://www.openstreetmap.org/edit?way=250268217#map=19/40.71672/-73.99035)| Open Street Map| Added name of new store on Ludlow street|
+
+
 
 
