@@ -38,7 +38,9 @@ Replace the first row with your own contribution.
 | April 14 | [Pull Request](https://github.com/openfoodfacts/openfoodfacts-server/pull/10129)| Open Food Facts  | introduced a new check_quality service within the APIProductServices module to provide real-time quality warnings and errors|
 | April 14 | [Mohammed bin Salman](https://en.wikipedia.org/w/index.php?title=Mohammed_bin_Salman&diff=prev&oldid=1218930397)| Wikipedia  | Normalized field labels, updated image captions for clarity, and reorganized the layout |
 | April 21 | [LES Wine & Spirits](https://www.openstreetmap.org/edit?way=250268217#map=19/40.71672/-73.99035)| Open Street Map| Added name of new store on Ludlow street|
-
+| April 23 | [Pull Request](https://github.com/joannakl/ossd/pull/121)| Course Website | Added a new section including links to "Up For Grabs" and "Good First Issues"|
+| April 23 | [Mars (Mythology)](https://en.wikipedia.org/w/index.php?title=Mars_(mythology)&diff=prev&oldid=1220450433)| Wikipedia | Enhanced clarity and accuracy in the description of Mars, detailing his roles, relationships, and symbolism within Roman Mythology|
+| April 23 | [Open Street Map](https://www.openstreetmap.org/edit?way=270963274#map=19/40.79144/-73.97736)| Open Street Map | Added number of levles to my uncle's apartment building|
 
 
 
